@@ -1,0 +1,35 @@
+---
+---
+
+/*@import "{{ site.theme }}";
+*/
+
+.page{
+	font-family: helvetica;
+}
+
+.intro-container {
+	display: flex;
+	font-size:  14px;
+	align-items: center;
+}
+
+.intro {
+	width: 75%;
+}
+
+.intro-content{
+	padding:  2%;
+}
+
+.intro-photo{
+	width: 25%;
+	opacity:  0.8;
+}	
+
+img {
+	max-width: 100%;
+	height: auto;
+	border-radius: 3px;
+}}
+
