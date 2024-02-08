@@ -7,11 +7,12 @@
 .page{
 	font-family: helvetica;
 	color: #595959;
+	font-weight: lighter;
+	font-size:  16px;
 }
 
 .intro {
 	display: flex;
-	font-size:  16px;
 	align-items: center;
 }
 
@@ -21,7 +22,6 @@
 }
 
 .about-the-name {
-	font-size:  16px;
 	font-style: italic;
 	font-weight:  lighter;
 	background-color: #FEF9F4;
@@ -43,7 +43,6 @@
 
 .fry {
 	display: flex;
-	font-size:  16px;
 }
 
 .fry > .photo {

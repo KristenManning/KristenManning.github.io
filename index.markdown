@@ -22,6 +22,9 @@ layout: default
 			<p>
 				<b>Fill out this <a href="https://form.jotform.com/240365810662050">form</a> to request a free consultation</b> or reach out at kristen@kairoiconsulting.com.
 			</p>
+			<p>
+				This website looks bad on phones. It will look better in the future.
+			</p>
 		</div>
 	    <div class="photo">
 	        <img src="https://avatars.githubusercontent.com/u/20606480?v=4" alt="Photo of Kristen and her dog Fry">
