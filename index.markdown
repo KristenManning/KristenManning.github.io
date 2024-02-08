@@ -22,9 +22,6 @@ layout: default
 			<p>
 				<b>Fill out this <a href="https://form.jotform.com/240365810662050">form</a> to request a free consultation</b> or reach out at kristen@kairoiconsulting.com.
 			</p>
-			<p>
-				This website looks bad on phones. It will look better in the future.
-			</p>
 		</div>
 	    <div class="photo">
 	        <img src="https://avatars.githubusercontent.com/u/20606480?v=4" alt="Photo of Kristen and her dog Fry">
@@ -66,6 +63,9 @@ layout: default
 			    </p>
 			    <div class="empty-col"></div>
 			    <div class="great-fit"> 
+			    	<div class="mobile-header"> 
+			    		Great fit 💯 
+			    	</div>
 			    	<ul>
 				    	<li>I need a software engineer to build custom internal tools and scripts.</li>
 				    	<li>I want to leverage low-code/no-code tools and powerful SaaS products. I need someone with software skills to help me get started.</li>
@@ -74,6 +74,9 @@ layout: default
 				    </ul>
 			    </div>
 			    <div class="not-fit"> 
+			    	<div class="mobile-header"> 
+				    	NOT a fit 🙅🏻‍♀️
+				    </div>
 			    	<ul>
 				    	<li>I need to temporarily increase the size of my engineering team by embedding contractors on the team.</li>
 				    	<li>I'm looking for an expert in a specific language or framework.</li>
@@ -88,6 +91,9 @@ layout: default
 			    </p>
 			    <div class="empty-col"></div>
 			    <div class="great-fit"> 
+			    	<div class="mobile-header"> 
+			    		Great fit 💯 
+			    	</div>
 			    	<ul>
 				    	<li>My engineering team is short on people management bandwidth. We need someone to do regular coaching 1:1s with engineers. We need help running hiring processes and/or designing interviews.</li>
 				    	<li>My engineering team's structure and/or culture is not working. I need a thought partner for organizational and/or cultural problems.</li> 
@@ -95,6 +101,9 @@ layout: default
 				    </ul>
 			    </div>
 			    <div class="not-fit"> 
+			    	<div class="mobile-header"> 
+				    	NOT a fit 🙅🏻‍♀️
+				    </div>
 			    	<ul>
 				    	<li>I need specific technical guidance related to AI, crypto, infrastructure, security.</li>
 				    	<li>My userbase is growing! My technical systems are breaking down and I need guidance on how to scale them.</li>
@@ -107,6 +116,9 @@ layout: default
 			    </p>
 			    <div class="empty-col"></div>
 				<div class="great-fit"> 
+					<div class="mobile-header"> 
+			    		Great fit 💯 
+			    	</div>
 			    	<ul>
 				    	<li>I need someone to help me through my job search: resume review, practice interviews, a thought partner for choosing where to apply and comparing offers.</li>
 				    	<li>I need someone to talk to regularly outside of my organization. I want to think big about my career, understand what motivates me at work, workshop difficult conversations, and get feedback from someone who is invested in my success.</li>
@@ -114,10 +126,14 @@ layout: default
 				    </ul>
 			    </div>
 			    <div class="not-fit"> 
+			    	<div class="mobile-header"> 
+				    	NOT a fit 🙅🏻‍♀️
+				    </div>
 			    	<ul>
-				    	<li>I need someone to tutor me on specific technical topics.</li>
+				    	<li>I need someone to teach me how to code or tutor me on specific topics in software engineering.</li>
 				    	<li>I need someone to help me get a FAANG job.</li>
 				    </ul>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -168,7 +184,7 @@ layout: default
 					Fry contributes to Kairoi Consulting through his work in Crumb Management, Security Operations, and Radiant Heating. 
 				</p>
 				<p>
-					Many thanks to <a href="https://muttville.org/available_mutts">Muttville</a> for bringing him into my life. 
+					Fry joined my professional network by way of <a href="https://muttville.org/available_mutts">Muttville</a>. 
 				</p>
 			</div> 
 		</div>

@@ -18,12 +18,10 @@
 
 .intro > .content {
 	width: 75%;
-	font-weight: lighter;
 }
 
 .about-the-name {
 	font-style: italic;
-	font-weight:  lighter;
 	background-color: #FEF9F4;
 	padding: 1%;
 }
@@ -31,7 +29,6 @@
 .about-the-name > .heading {
 	font-size:  18px;
 	font-style: italic;
-/*	font-weight:  lighter;*/
 	margin:  none;
 }
 
@@ -71,7 +68,6 @@
 	display: flex;
 	justify-content: left;
 	flex-wrap: wrap;
-	width: 25%;
 	font-size: 14px;
 	font-weight: lighter;
 }
@@ -109,4 +105,50 @@ h1 {
 
 .header-row > .heading {
 	justify-content: center;
+}
+
+.mobile-header {
+	display: none;
+}
+
+@media screen and (max-width: 695px) {
+
+	.service, .intro {
+		display: flex;
+		flex-flow: column nowrap;
+		width: 100%;
+	}
+
+	.service-type, .empty-col, .great-fit, .not-fit{
+		width: 100%;
+	}
+
+	.header-row {
+		display: none;
+	}
+
+	.mobile-header {
+		display: block;
+		font-size: 14px;
+		font-weight:  bold; 
+		margin-bottom: 2px;
+	}
+
+	.fry > .photo {
+		width: 30%;
+		vertical-align: center;
+	}
+
+	.fry > .content {
+		width: 70%;
+		padding: 2%;
+	}
+
+	.intro > .content {
+		width: 100%;
+	}
+
+	.intro > .photo {
+		width: 50%;
+	}
 }
