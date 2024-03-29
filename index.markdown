@@ -11,10 +11,10 @@ layout: default
 	<div class="intro">
 		<div class="content">
 			<p class="heading">
-				Hi there 👋 I'm Kristen
+				Hi there 👋 I'm Kristen. I'm a <a href="https://www.linkedin.com/in/kristen-manning-83b266104">software developer and former startup exec</a>.
 			</p>
 			<p>
-				I'm a <a href="https://www.linkedin.com/in/kristen-manning-83b266104">software developer and former startup exec</a> currently available as an independent contractor. Potential engagements include software development, consulting, fractional leadership, and individual coaching.
+				As a consultant, I specialize in helping small businesses and early-stage startups to automate their operations, leverage powerful software products and low-code tools, and build prototypes of new products. <b>My work frees up business owners and startup founders to focus on the big picture.</b> Think: "CTO" or "Founding Engineer" on an as-needed basis. 
 			</p>
 			<p>
 				I split my time between Midcoast Maine and New York City. Most of my work is done remotely, though I'm happy to meet in-person in Maine or NY. On-site engagements in other cities may be available upon request. 
@@ -35,7 +35,7 @@ layout: default
 			I learned about the concept of kairos (plural: kairoi), meaning a <a href="https://en.wikipedia.org/wiki/Kairos">critical or opportune moment for action</a>, while reading <a href="https://www.jennyodell.com/writing.html">Jenny Odell's</a> book <a href="https://www.penguinrandomhouse.com/books/672377/saving-time-by-jenny-odell/">Saving Time</a>. It stuck with me and came to mind again when reflecting on what sort of consulting business I wanted to build. 
 		</p>
 		<p>
-			My goal here is not to grow a huge team of developers or convince lots of folks to do a high volume of work with me. Rather, my intention is to <b>build relationships with startups, small businesses, and individuals, and collaborate during critical moments in their growth journeys</b> - moments that present a unique opportunity for my skillset to advance their goals. 
+			My goal here is not to grow a huge team of developers or convince tons of folks to pay for my services. Rather, my intention is to <b>build relationships with startups, small businesses, and individuals, and collaborate during critical moments in their growth journeys</b> - moments that present a unique opportunity for my skillset to advance their goals. 
 		</p>
 		<p>
 			If the moment is not right for me to have an outsized impact on your business, then I will do my best to help you find the person who can. Let's get to know each other!
@@ -69,8 +69,8 @@ layout: default
 			    	<ul>
 				    	<li>I need a software engineer to build custom internal tools and scripts.</li>
 				    	<li>I want to leverage low-code/no-code tools and powerful SaaS products. I need someone with software skills to help me get started.</li>
-				    	<li>My team is moving fast with low-code/no-code tools! But, the morass of automations is growing more complex everyday. We need someone with software skills to get us back on the rails.</li> 
-				    	<li>I have a vision for a product or feature. I need someone to help me build a prototype or early version.</li>
+				    	<li>My team is moving fast with low-code/no-code tools! But, we need someone with software skills to get the complexity under control.</li> 
+				    	<li>I have a vision for a product or feature. I need someone to help me build it.</li>
 				    </ul>
 			    </div>
 			    <div class="not-fit"> 
@@ -80,8 +80,8 @@ layout: default
 			    	<ul>
 				    	<li>I need to temporarily increase the size of my engineering team by embedding contractors on the team.</li>
 				    	<li>I'm looking for an expert in a specific language or framework.</li>
-				    	<li>I need a frontend engineer to implement pixel-perfect user-facing designs.</li>
-				    	<li>I need a software engineer to build an iOS or Android application.</li>
+				    	<li>I need a frontend expert to implement pixel-perfect user-facing designs and complex animations.</li>
+				    	<li>I need a software engineer to build a native iOS or Android application.</li>
 				    </ul>
 			    </div>
 			</div>
@@ -95,9 +95,9 @@ layout: default
 			    		Great fit 💯 
 			    	</div>
 			    	<ul>
-				    	<li>My engineering team is short on people management bandwidth. We need someone to do regular coaching 1:1s with engineers. We need help running hiring processes and/or designing interviews.</li>
-				    	<li>My engineering team's structure and/or culture is not working. I need a thought partner for organizational and/or cultural problems.</li> 
-				    	<li>My early-stage startup does not have technical leadership yet. In the meantime, I need a thought partner for problems at the intersection of product & engineering.</li> 
+				    	<li>My engineering team is short on people managers. We need someone to do coaching 1:1s with engineers. We need help running hiring and designing interviews.</li>
+				    	<li>My engineering team's structure and culture is broken. I need a thought partner for organizational and cultural problems.</li> 
+				    	<li>I'm not ready to hire technical leadership for my early-stage startup. In the meantime, I need a thought partner for problems at the intersection of product & engineering.</li> 
 				    </ul>
 			    </div>
 			    <div class="not-fit"> 
@@ -120,8 +120,8 @@ layout: default
 			    		Great fit 💯 
 			    	</div>
 			    	<ul>
-				    	<li>I need someone to help me through my job search: resume review, practice interviews, a thought partner for choosing where to apply and comparing offers.</li>
-				    	<li>I need someone to talk to regularly outside of my organization. I want to think big about my career, understand what motivates me at work, workshop difficult conversations, and get feedback from someone who is invested in my success.</li>
+				    	<li>I need someone to help me through my job search: resume review, practice interviews, opportunity evaluation.</li>
+				    	<li>I want to think big about my career, understand what motivates me at work, workshop difficult conversations, and get feedback from someone who is invested in my success.</li>
 				    	<li>I'm spending more and more time building a side project. I need someone to provide code review, guidance, feedback, and accountability.</li>
 				    </ul>
 			    </div>
@@ -162,7 +162,7 @@ layout: default
 	    	</li>
 	    </ul>
 	    <p>
-	    	Reduced rates are available for small businesses in Midcoast Maine, startups offering equity, folks who identify as underrepresented in tech, career changers, and Joe Pera. 
+	    	Reduced rates are available for small businesses, startups offering equity, folks who identify as underrepresented in tech, career changers, and Joe Pera. 
 	   	</p>
     </div>
     <div> 

@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Kairoi Consulting
-email: hello@kairoiconsulting.com
+title: Kairoi Consulting LLC
+email: kristen@kairoiconsulting.com
 description: >- # this means to ignore newlines until "baseurl:"
   Independent software developer, consultant and coach. Available to support startups, 
   small businesses, and individual software engineers. 
