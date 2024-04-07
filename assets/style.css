@@ -99,12 +99,21 @@ h1 {
 	color: #FF9845;
 }
 
+li {
+	margin-bottom: 5px;
+}
+
 .heading {
 	font-size:  20px;
 }
 
 .header-row > .heading {
 	justify-content: center;
+}
+
+.service-type{
+	font-weight: bold;
+	font-size: 24px;
 }
 
 .mobile-header {

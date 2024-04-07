@@ -149,10 +149,10 @@ layout: default
 	    </p>
 	    <ul>
 	    	<li>
-	    		$150/hr for fractional leadership & consulting
+	    		$230/hr for fractional leadership & consulting
 	    	</li>
 	    	<li>
-	    		$120/hr for software development
+	    		$190/hr for software development
 	    	</li>
 	    	<li>
 	    		$85/session (50 min) for career & communication coaching 
