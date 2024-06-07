@@ -142,21 +142,10 @@ layout: default
 	    	Rates
 	    </h1> 
 	    <p>
-	    	All rates are determined individually based on the details explored in the <a href="https://form.jotform.com/240365810662050">free consultation</a>. 
+	    	All rates are determined individually based on the details explored in the <a href="https://form.jotform.com/240365810662050">free consultation</a>. That said, you can think of $150/hr as a baseline rate for most projects. 
 	    </p>
 	    <p>
-	    	That said, you may refer to the following rates as a guideline: 
-	    </p>
-	    <ul>
-	    	<li>
-	    		$230/hr for fractional leadership & consulting
-	    	</li>
-	    	<li>
-	    		$180/hr for software development
-	    	</li>
-	    </ul>
-	    <p>
-	    	Reduced rates are available for small businesses, startups offering equity, folks who identify as underrepresented in tech, career changers, and Joe Pera. 
+	    	Reduced rates are available for small businesses, folks who identify as underrepresented in tech, career changers, and Joe Pera. 
 	   	</p>
     </div>
     <div> 
