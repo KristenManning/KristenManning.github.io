@@ -11,13 +11,13 @@ layout: default
 	<div class="intro">
 		<div class="content">
 			<p class="heading">
-				Hi there 👋 I'm Kristen. I'm a <a href="https://www.linkedin.com/in/kristen-manning-83b266104">software developer and former startup exec</a>.
+				Hi there 👋 I'm Kristen. I'm a <a href="https://www.linkedin.com/in/kristen-manning-83b266104">software engineer and people leader</a>.
 			</p>
 			<p>
 				As a consultant, I specialize in helping small businesses and early-stage startups to automate their operations, leverage powerful software products and low-code tools, and build prototypes of new products. <b>My work frees up business owners and startup founders to focus on the big picture.</b> Think: "CTO" or "Founding Engineer" on an as-needed basis. 
 			</p>
 			<p>
-				I split my time between Midcoast Maine and New York City. Most of my work is done remotely, though I'm happy to meet in-person in Maine or NY. On-site engagements in other cities may be available upon request. 
+				I'm also available for 1:1 coaching
 			</p>
 			<p>
 				<b>Fill out this <a href="https://form.jotform.com/240365810662050">form</a> to request a free consultation</b> or reach out at kristen@kairoiconsulting.com.
@@ -68,9 +68,8 @@ layout: default
 			    	</div>
 			    	<ul>
 				    	<li>I need a software engineer to build custom internal tools and scripts.</li>
-				    	<li>I want to leverage low-code/no-code tools and powerful SaaS products. I need someone with software skills to help me get started.</li>
-				    	<li>My team is moving fast with low-code/no-code tools! But, we need someone with software skills to get the complexity under control.</li> 
-				    	<li>I have a vision for a product or feature. I need someone to help me build it.</li>
+				    	<li>I want to leverage low-code tools, SaaS products, and vibe coding. I need someone with software skills to help me get started and/or keep the complexity under control</li>
+				    	<li>I have a vision for a product or feature. I need someone to help me build an MVP.</li>
 				    </ul>
 			    </div>
 			    <div class="not-fit"> 
@@ -95,9 +94,9 @@ layout: default
 			    		Great fit 💯 
 			    	</div>
 			    	<ul>
+						<li>My project or company is early-days. I need a thought partner for product & technology problems.</li> 
 				    	<li>My engineering team is short on people managers. We need someone to do coaching 1:1s with engineers. We need help running hiring and designing interviews.</li>
 				    	<li>My engineering team's structure and culture is broken. I need a thought partner for organizational and cultural problems.</li> 
-				    	<li>I'm not ready to hire technical leadership for my early-stage startup. In the meantime, I need a thought partner for problems at the intersection of product & engineering.</li> 
 				    </ul>
 			    </div>
 			    <div class="not-fit"> 
@@ -105,7 +104,7 @@ layout: default
 				    	NOT a fit 🙅🏻‍♀️
 				    </div>
 			    	<ul>
-				    	<li>I need specific technical guidance related to AI, crypto, infrastructure, security.</li>
+				    	<li>I need specific technical guidance related to crypto, infrastructure, security.</li>
 				    	<li>My userbase is growing! My technical systems are breaking down and I need guidance on how to scale them.</li>
 				    </ul>
 			    </div>
@@ -142,7 +141,7 @@ layout: default
 	    	Rates
 	    </h1> 
 	    <p>
-	    	All rates are determined individually based on the details explored in the <a href="https://form.jotform.com/240365810662050">free consultation</a>. That said, you can think of $150/hr as a baseline rate for most projects. 
+	    	All rates are determined individually based on the details explored in the <a href="https://form.jotform.com/240365810662050">free consultation</a>. That said, you can think of $200/hr as a baseline rate for most projects. 
 	    </p>
 	    <p>
 	    	Reduced rates are available for small businesses, folks who identify as underrepresented in tech, career changers, and Joe Pera. 
