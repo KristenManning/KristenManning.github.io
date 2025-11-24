@@ -14,10 +14,7 @@ layout: default
 				Hi there 👋 I'm Kristen. I'm a <a href="https://www.linkedin.com/in/kristen-manning-83b266104">software engineer and people leader</a>.
 			</p>
 			<p>
-				As a consultant, I specialize in helping small businesses and early-stage startups to automate their operations, leverage powerful software products and low-code tools, and build prototypes of new products. <b>My work frees up business owners and startup founders to focus on the big picture.</b> Think: "CTO" or "Founding Engineer" on an as-needed basis. 
-			</p>
-			<p>
-				I'm also available for 1:1 coaching
+				As a consultant, I specialize in helping small businesses and early-stage startups to automate their operations, leverage powerful software products and low-code tools, and build prototypes of new products. <b>My work frees up business owners and startup founders to focus on the big picture.</b> Think: "CTO" or "Founding Engineer" on an as-needed basis. I'm also available for 1:1 coaching.
 			</p>
 			<p>
 				<b>Fill out this <a href="https://form.jotform.com/240365810662050">form</a> to request a free consultation</b> or reach out at kristen@kairoiconsulting.com.
@@ -27,20 +24,6 @@ layout: default
 	        <img src="https://avatars.githubusercontent.com/u/20606480?v=4" alt="Photo of Kristen and her dog Fry">
 	    </div>
 	</div>
-	<div class="about-the-name">
-    	<p class="heading">
-			What is kairoi? 
-		</p>
-		<p>
-			I learned about the concept of kairos (plural: kairoi), meaning a <a href="https://en.wikipedia.org/wiki/Kairos">critical or opportune moment for action</a>, while reading <a href="https://www.jennyodell.com/writing.html">Jenny Odell's</a> book <a href="https://www.penguinrandomhouse.com/books/672377/saving-time-by-jenny-odell/">Saving Time</a>. It stuck with me and came to mind again when reflecting on what sort of consulting business I wanted to build. 
-		</p>
-		<p>
-			My goal here is not to grow a huge team of developers or convince tons of folks to pay for my services. Rather, my intention is to <b>build relationships with startups, small businesses, and individuals, and collaborate during critical moments in their growth journeys</b> - moments that present a unique opportunity for my skillset to advance their goals. 
-		</p>
-		<p>
-			If the moment is not right for me to have an outsized impact on your business, then I will do my best to help you find the person who can. Let's get to know each other!
-		</p>
-    </div>
 	<div>
 	    <h1>
 	    	Services
@@ -146,6 +129,20 @@ layout: default
 	    <p>
 	    	Reduced rates are available for small businesses, folks who identify as underrepresented in tech, career changers, and Joe Pera. 
 	   	</p>
+    </div>
+	<div class="about-the-name">
+    	<p class="heading">
+			What is kairoi? 
+		</p>
+		<p>
+			I learned about the concept of kairos (plural: kairoi), meaning a <a href="https://en.wikipedia.org/wiki/Kairos">critical or opportune moment for action</a>, while reading <a href="https://www.jennyodell.com/writing.html">Jenny Odell's</a> book <a href="https://www.penguinrandomhouse.com/books/672377/saving-time-by-jenny-odell/">Saving Time</a>. It stuck with me and came to mind again when reflecting on what sort of consulting business I wanted to build. 
+		</p>
+		<p>
+			My goal here is not to grow a huge team of developers or convince tons of folks to pay for my services. Rather, my intention is to <b>build relationships with startups, small businesses, and individuals, and collaborate during critical moments in their growth journeys</b> - moments that present a unique opportunity for my skillset to advance their goals. 
+		</p>
+		<p>
+			If the moment is not right for me to have an outsized impact on your business, then I will do my best to help you find the person who can. Let's get to know each other!
+		</p>
     </div>
     <div> 
     	<h1>
