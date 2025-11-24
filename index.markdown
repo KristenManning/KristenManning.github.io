@@ -51,7 +51,7 @@ layout: default
 			    	</div>
 			    	<ul>
 				    	<li>I need a software engineer to build custom internal tools and scripts.</li>
-				    	<li>I want to leverage low-code tools, SaaS products, and vibe coding. I need someone with software skills to help me get started and/or keep the complexity under control</li>
+				    	<li>I want to leverage low-code tools, SaaS products, and vibe coding. I need someone with software skills to help me get started and/or keep the complexity under control.</li>
 				    	<li>I have a vision for a product or feature. I need someone to help me build an MVP.</li>
 				    </ul>
 			    </div>
@@ -119,30 +119,41 @@ layout: default
 			</div>
 		</div>
 	</div>
-    <div class="rates"> 
+	<div> 
+    	<h1>
+	    	Experience & Vision
+	    </h1>  
+		<p>
+			I caught the product development bug back in 2015 during a capstone course at MIT: <a href="https://2009.mit.edu/">Product Engineering Processes</a>. I've spent the decade since then building products, deepening my technical skills, growing as a leader & coach, and continously revisting the very same themes from that capstone class: design thinking, iterative development, cross-functional collaboration, creativity.
+		</p> 
+		<p>
+			I've spent about half of my career in leadership roles. Most notably, I led engineering at Brilliant where I grew the department to 30+ contributors and sat on the executive team. 
+		</p>
+		<p>
+			As for my experience as a consultant/contractor, past engagements include: building a website for a local business, automating back-of-house operations for a seed-stage startup, creating interactive visualizations for a graduate-level course at MIT, and more. 
+		</p>
+		<div class="about-the-name">
+	    	<p class="heading">
+				What is kairoi? 
+			</p>
+			<p>
+				I learned about the concept of kairos (plural: kairoi), meaning a <a href="https://en.wikipedia.org/wiki/Kairos">critical or opportune moment for action</a>, while reading <a href="https://www.jennyodell.com/writing.html">Jenny Odell's</a> book <a href="https://www.penguinrandomhouse.com/books/672377/saving-time-by-jenny-odell/">Saving Time</a>. It stuck with me and came to mind again when reflecting on what sort of consulting business I wanted to build. 
+			</p>
+			<p>
+				My goal here is not to grow a huge team or convince tons of folks to pay for my services. Rather, my intention is to <b>build relationships with startups, small businesses, and individuals, and collaborate during critical moments in their growth journeys</b> - moments that present a unique opportunity for my skillset to advance their goals. 
+			</p>
+			<p>
+				If the moment is not right for me to have an outsized impact on your business, then I will do my best to help you find the person who can. Let's get to know each other!
+			</p>
+	</div>
+    </div>
+	<div class="rates"> 
     	<h1>
 	    	Rates
 	    </h1> 
 	    <p>
 	    	All rates are determined individually based on the details explored in the <a href="https://form.jotform.com/240365810662050">free consultation</a>. That said, you can think of $200/hr as a baseline rate for most projects. 
 	    </p>
-	    <p>
-	    	Reduced rates are available for small businesses, folks who identify as underrepresented in tech, career changers, and Joe Pera. 
-	   	</p>
-    </div>
-	<div class="about-the-name">
-    	<p class="heading">
-			What is kairoi? 
-		</p>
-		<p>
-			I learned about the concept of kairos (plural: kairoi), meaning a <a href="https://en.wikipedia.org/wiki/Kairos">critical or opportune moment for action</a>, while reading <a href="https://www.jennyodell.com/writing.html">Jenny Odell's</a> book <a href="https://www.penguinrandomhouse.com/books/672377/saving-time-by-jenny-odell/">Saving Time</a>. It stuck with me and came to mind again when reflecting on what sort of consulting business I wanted to build. 
-		</p>
-		<p>
-			My goal here is not to grow a huge team of developers or convince tons of folks to pay for my services. Rather, my intention is to <b>build relationships with startups, small businesses, and individuals, and collaborate during critical moments in their growth journeys</b> - moments that present a unique opportunity for my skillset to advance their goals. 
-		</p>
-		<p>
-			If the moment is not right for me to have an outsized impact on your business, then I will do my best to help you find the person who can. Let's get to know each other!
-		</p>
     </div>
     <div> 
     	<h1>
